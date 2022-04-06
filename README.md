@@ -1,7 +1,7 @@
 ## Introduction
 
 <!-- TODO nf-core: Write a 1-2 sentence summary of what data the pipeline is for and what it does -->
-**salzmanlab/spliz** is a bioinformatics best-practise analysis pipeline for calculating the splicing z-score for single cell RNA-seq analysis.
+**salzmanlab/spliz** is a bioinformatics best-practise analysis pipeline for calculating the splicing z-score for single cell RNA-seq analysis. This is a version where all process compute requirements are scaled to run on a laptop. 
 
 This pipeline uses code and infrastructure developed and maintained by the [nf-core](https://nf-co.re) community, reused here under the [MIT license](https://github.com/nf-core/tools/blob/master/LICENSE).
 
